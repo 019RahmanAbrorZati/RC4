@@ -7,6 +7,7 @@ Proyek ini dibuat untuk memenuhi tugas mata kuliah **Keamanan Data dan Informasi
 ## 👨‍💻 Identitas Pembuat
 * **Nama:** Rahman Abror Zati
 * **NIM:** 24051204019
+* **Kelas:** TIA 2024
 
 ## ⚙️ Fitur Program
 Program ini mendemonstrasikan proses enkripsi dan dekripsi *stream cipher* RC4 dengan mencetak langkah-langkah detail ke terminal, meliputi:
